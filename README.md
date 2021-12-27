@@ -1,2 +1,0 @@
-# DiaHelp
-Mobile Programm
